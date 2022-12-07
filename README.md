@@ -1,4 +1,4 @@
-# Palindrome Checker Certification Project
+# Telephone Number Validator Certification Project
 
 ## freeCodeCamp JavaScript Algorithms and Data Structures
 
